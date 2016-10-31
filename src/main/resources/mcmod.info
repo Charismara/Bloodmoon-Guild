@@ -2,12 +2,12 @@
 {
   "modid": "bloodguild",
   "name": "Blood Guild",
-  "description": "This Mod is a ALPHA",
+  "description": "This Mod is a \u00A7l\u00A74ALPHA version",
   "version": "1.0",
   "mcversion": "1.10.2",
   "url": "http://www.blutmondgilde.de",
-  "authorList": ["MrProfessor, Julschmid"],
-  "credits": "MrProfessor = Chris, Julschmid = Julian",
+  "authorList": ["\u00a7n\u00a71MrProfessor\u00A7f, \u00A72Julschmid"],
+  "credits": "\u00A71MrProfessor \u00A76= \u00A73Chris\u00A7f, \u00A72Julschmid \u00A76= \u00A7aJulian",
   "logoFile": "logo.png",
   "screenshots": [],
   "dependencies": []
