@@ -25,6 +25,9 @@ public class BloodGuild {
 	@SidedProxy(modId = MODID, serverSide = "de.blutmondgilde.bloodguild.proxy.CommonProxy", clientSide = "de.blutmondgilde.bloodguild.proxy.ClientProxy")
 	public static CommonProxy proxy = new CommonProxy();
 
+	
+	
+	
 	// Forge Start-up events (Chronologisch sortiert)
 	@EventHandler
 	public void preinit(FMLPreInitializationEvent event) {
