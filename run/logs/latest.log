@@ -1,0 +1,42 @@
+[19:27:49] [Client thread/INFO]: Setting user: Player710
+[19:27:54] [Client thread/WARN]: Skipping bad option: lastServer:
+[19:27:54] [Client thread/INFO]: LWJGL Version: 2.9.4
+[19:27:59] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Blood Guild
+[19:28:02] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[19:28:02] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[19:28:02] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[19:28:02] [Thread-8/INFO]: OpenAL initialized.
+[19:28:03] [Sound Library Loader/INFO]: Sound engine started
+[19:28:07] [Client thread/INFO]: Created: 16x16 textures-atlas
+[19:28:08] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Blood Guild
+[19:28:11] [Client thread/INFO]: SoundSystem shutting down...
+[19:28:11] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[19:28:11] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[19:28:11] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[19:28:11] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[19:28:11] [Thread-10/INFO]: OpenAL initialized.
+[19:28:12] [Sound Library Loader/INFO]: Sound engine started
+[19:28:15] [Client thread/INFO]: Created: 512x512 textures-atlas
+[19:28:16] [Client thread/WARN]: Skipping bad option: lastServer:
+[19:28:17] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[19:29:00] [Client thread/INFO]: Setting user: Player368
+[19:29:05] [Client thread/WARN]: Skipping bad option: lastServer:
+[19:29:05] [Client thread/INFO]: LWJGL Version: 2.9.4
+[19:29:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Blood Guild
+[19:29:13] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[19:29:13] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[19:29:13] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[19:29:13] [Thread-7/INFO]: OpenAL initialized.
+[19:29:13] [Sound Library Loader/INFO]: Sound engine started
+[19:29:17] [Client thread/INFO]: Created: 16x16 textures-atlas
+[19:29:18] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Blood Guild
+[19:29:21] [Client thread/INFO]: SoundSystem shutting down...
+[19:29:22] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[19:29:22] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[19:29:22] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[19:29:22] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[19:29:22] [Thread-9/INFO]: OpenAL initialized.
+[19:29:22] [Sound Library Loader/INFO]: Sound engine started
+[19:29:25] [Client thread/INFO]: Created: 512x512 textures-atlas
+[19:29:26] [Client thread/WARN]: Skipping bad option: lastServer:
+[19:29:27] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
